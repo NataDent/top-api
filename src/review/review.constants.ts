@@ -1,1 +1,1 @@
-export const REVIEW_NOT_FOUND = 'No review found with this ID';
+export const REVIEW_NOT_FOUND = 'Отзыв с таким id не найден';
